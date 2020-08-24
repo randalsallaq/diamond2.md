@@ -1,0 +1,1 @@
+# diamond2.md
